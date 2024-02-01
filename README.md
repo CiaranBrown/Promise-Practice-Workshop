@@ -1,2 +1,3 @@
-# Promise-Practice-Workshop
-Founders &amp; Coders Workshop
+Founders & Coders Javascript Workshop Challenges
+
+Promise Practice workshop complete!
